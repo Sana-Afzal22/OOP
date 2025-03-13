@@ -1,2 +1,2 @@
-# OOP
-composition program in c++
+
+this is prograam of composition  in c++
